@@ -1,0 +1,200 @@
+@media (max-width: 1199px){
+    .container{
+        max-width: 992px;
+    }
+    .images {
+         padding: 0; 
+    }
+}
+@media (max-width: 991px){
+    .images {
+        padding: 0; 
+        width: 100%;
+    }
+ 
+
+    .nan{
+        height: 435px;
+    }
+    .award-text{
+        top: 39%;
+        right: 39%;
+        position: absolute;
+    }
+    .web{
+        height: 277px;
+    }
+    .award-item{
+        margin-top: 20px;
+    }
+    .lis{
+        padding: 0 12px;
+    }
+
+    .balck{
+        padding: 52px;
+    }
+    .lar {
+        margin-left: 0;
+    }
+    .images {
+        padding: 10px 23px;
+        width: 100%;
+    }
+    
+}
+@media (max-width: 767px){
+    
+    
+    .images{
+        width: 100%;
+        padding: 0;
+    }
+    .lar {
+        margin-left: 196px;
+    }
+    .adwar{
+        padding: 53px 93px;
+    }
+    .pass {
+        text-align: center;
+        display: flex;
+    }
+    .each{
+        text-align: left;
+    }
+    .write3{
+        text-align: left;
+        margin-left: 20px;
+    }
+    .write4{
+        text-align: left;
+        margin-left: 20px;
+    }
+    .nan{
+        height: 238px;
+        object-fit: cover;
+    }
+    .web{
+        height: 324px;
+        object-fit: cover;
+    }
+    .award-item{
+        position: relative;
+        margin-top: 30px;
+    }
+    .more {
+        margin-top: -59px;
+    }
+    .talk{
+        padding-left: 83px;
+    }
+
+    .icons{
+        margin-top: 30px;
+        text-align: center;
+    }
+    .central-office{
+        text-align: center;
+    }
+    .desigin-office{
+        text-align: center;
+    }
+    .award-text {
+        top: 35%;
+        right: 33%;
+        position: absolute;
+    }
+
+
+.lets {
+    max-width: 580px;
+    text-align: center;
+    padding: 30px 95px;
+}
+.list{
+    display: none;
+}
+}
+@media (max-width: 565px){
+
+     
+    .adwar {
+        position: absolute;
+        max-width: 588px;
+        padding: 0 59px;
+        text-align: center;
+    }
+
+   .images {
+      padding: 0;
+      width: 100%;
+      
+        padding: 0;
+        width: 100%;
+        overflow: hidden;
+        height: 843px;
+    
+   }
+
+   .frame {
+    position: relative;
+    top: -314px;
+    left: 12px;
+}
+
+
+   .pass {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+   }
+   .write3{
+       text-align: center;
+   }
+
+   .write4{
+       text-align: center;
+   }
+   .lar{
+       margin: 0;
+   }
+   *{
+       text-align: center;
+   }
+   .item{
+    margin-top: -609px;
+   }
+   .row {
+    margin-top: 32px;
+}
+.learn {
+    padding: 18px 24px;
+    position: absolute;
+    font-size: 15px;
+    margin-left: -82px;
+}
+.text{
+    font-size: 30px;
+}
+.more {
+    margin-top: -59px;
+    margin-left: -89px;
+}
+.balck {
+    padding: -1;
+}
+.resour{
+    margin: 0 auto;
+}
+  .wining{
+    margin-top: 180px;
+}
+.balck {
+    background-color: #333136;
+    width: 100%;
+    height: 873px;
+    padding: 0;
+}
+
+}
